@@ -1,0 +1,21 @@
+.box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: rgb(246, 196, 67);
+  margin: 1rem auto;
+  width: 50%;
+}
+
+.box h1 {
+  color: rgb(140, 18, 247);
+  text-align: center;
+}
+
+.box p {
+  font-size: 2rem;
+}
+
+.box img {
+  width: 50%;
+}
